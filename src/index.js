@@ -1,6 +1,3 @@
-import '@fortawesome/fontawesome-free/js/solid';
-import '@fortawesome/fontawesome-free/js/brands';
-import '@fortawesome/fontawesome-free/js/fontawesome';
 import tmp from "./templates/menu.hbs";
 import menu from "./menu.json";
 import './sass/styles.css';
